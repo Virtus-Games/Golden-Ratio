@@ -1,0 +1,1051 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45369302c7c769245aa72671b3c98765, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  so: {fileID: 11400000, guid: 5060406f05e4d3149879ac86ae591e38, type: 2}
+  levels:
+  - indexName: level 1
+    indexLevel: 0
+    elements:
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 100
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 100
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+  - indexName: level 2
+    indexLevel: 0
+    elements:
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 100
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 100
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+  - indexName: level 3
+    indexLevel: 0
+    elements:
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 100
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+    - elements:
+      - name: Sol Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kulak Disari
+        charackterType: 3
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sag Kulak Yukari
+        charackterType: 3
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kulak disari
+        charackterType: 3
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Burun Yukari
+        charackterType: 0
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Burun Asagi
+        charackterType: 0
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Burun Sol
+        charackterType: 0
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Burun Sag
+        charackterType: 0
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Goz Yukari
+        charackterType: 1
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Asagi
+        charackterType: 1
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sag
+        charackterType: 1
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Sag Goz Sol
+        charackterType: 1
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sol Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Asagi
+        charackterType: 4
+        indexMoveType: 3
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 0
+        value: 0
+      - name: Sol Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 0
+        value: 0
+      - name: Sag Kas Yukari
+        charackterType: 4
+        indexMoveType: 2
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Asagi
+        charackterType: 3
+        indexMoveType: 3
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sol
+        charackterType: 4
+        indexMoveType: 0
+        intractableType: 1
+        value: 0
+      - name: Sag Kas Sag
+        charackterType: 4
+        indexMoveType: 1
+        intractableType: 1
+        value: 0
+      - name: Cene Yukari
+        charackterType: 6
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Cene Asagi
+        charackterType: 6
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
+      - name: Cene Sol
+        charackterType: 6
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Cene Sag
+        charackterType: 6
+        indexMoveType: 1
+        intractableType: 2
+        value: 0
+      - name: Dudak Sol
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 0
+      - name: Dudak Sag
+        charackterType: 5
+        indexMoveType: 0
+        intractableType: 2
+        value: 100
+      - name: Dudak Yukari
+        charackterType: 5
+        indexMoveType: 2
+        intractableType: 2
+        value: 0
+      - name: Dudak Asagi
+        charackterType: 5
+        indexMoveType: 3
+        intractableType: 2
+        value: 0
